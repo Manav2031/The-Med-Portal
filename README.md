@@ -1,4 +1,4 @@
-# Med Portal
+# The Med Portal
 
 **Med Portal** is a web application designed to streamline the medicine supply process by connecting doctors, medical stores, patients, and caretakers. It optimizes medicine availability checks, streamlines prescription processes, and features a geolocation-based sorting of medical stores to enhance user convenience.
 
