@@ -24,7 +24,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/med-portal.git
+   git clone https://github.com/divyank007/The-Med-Portal.git
    cd med-portal
    ```
 2. **Navigate to the Backend folder and install dependencies:**
@@ -57,7 +57,7 @@ npm install
 6. **Start the frontend application:**
 
 ```bash
-npm start
+npm run start
 ```
 
 ## Contributing
