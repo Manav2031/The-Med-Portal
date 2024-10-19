@@ -86,14 +86,8 @@ const PreBookPage = () => {
       ) : (
         <p>No availability information found.</p>
       )}
+     </div>
+   );
+ };
 
-      {pdfPath && (
-        <a href={`http://localhost:5000/${pdfPath}`} download>
-          Download Prescription PDF
-        </a>
-      )}
-    </div>
-  );
-};
-
-export default PreBookPage;
+ export default PreBookPage;
